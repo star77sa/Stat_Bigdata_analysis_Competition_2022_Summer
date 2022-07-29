@@ -39,3 +39,7 @@
 
 ## 정리
 ![image](https://user-images.githubusercontent.com/73769046/181712782-0350082d-ad63-4f6f-94e2-372481775fbb.png)
+
+## `feedback`
+- 정확도를 말할 때 imbalance 함을 명시.
+- 상관관계 말고 causality 분석했으면 더 좋았을 듯
