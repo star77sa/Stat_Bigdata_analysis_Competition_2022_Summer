@@ -31,7 +31,7 @@
 ![image](https://user-images.githubusercontent.com/73769046/181712448-7b42c4a0-ee4e-43af-99b3-b7210307cdea.png)
 
 ## 2. 기사의 긍·부정 분류
-- KNU 감서사전을 이용하여 부정어 구축
+- KNU 감성사전을 이용하여 부정어 구축
 - Train 데이터 긍·부정 분류, 라벨링 후 학습
 
 ![image](https://user-images.githubusercontent.com/73769046/181712683-578465c1-9aa4-4169-96ac-28c44148d8e8.png)
